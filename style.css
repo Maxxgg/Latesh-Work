@@ -1,0 +1,130 @@
+
+body{
+    margin: 0px;
+    text-align: center; 
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento' , cursive;
+    font-size: 5.623rem;
+    color: rgb(1, 87, 87);
+}
+h1:hover{
+    color:#11999E ;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(1, 87, 87);
+    
+    
+}
+.sub{
+    font-size: 2.5rem;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+a{
+    color: #11999E;
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+p{
+    color: #40514E;
+}
+.Top-container{
+    position: relative;
+    padding-top: 100px ;
+    background-color:#bff5eb ; 
+}
+.bottom-container{
+    background-color:#bff5eb ; 
+    padding: 50px 0 20px
+    
+}
+.line{
+    border-style: none  ;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 10%;
+    color: rgb(1, 87, 87);
+}
+
+.Avatar{
+    border-radius: 50%;
+    width: 15%;
+    height: auto;
+}
+
+.skill{
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+    
+    
+}
+
+.sale{
+    width: 25%;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+}
+.cloud1{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+.cloud2{
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+} 
+.mountain{
+    width: auto;
+    height: auto;
+}
+
+a:hover{
+        color: #eaf6f6;
+}
+.space{
+    margin-bottom: 20px;
+}
+
+.skill-row{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.contact-me{
+    margin: 70px;
+    line-height: 2;
+
+}
+.btn{
+    background-color:  rgb(1, 87, 87);
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color:#55c2ae  ;
+}
+.profile{
+    padding: 30px;
+}
+.skills{
+    padding: 10px;
+}
+.copy{padding: 10px; 
+    color: eaf6f6; 
+    font-size:0.75rem;
+    padding: 20px 0;
+}
